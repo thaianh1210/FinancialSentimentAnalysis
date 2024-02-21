@@ -1,0 +1,2 @@
+# FinancialSentimentAnalysis
+FinancialSentimentAnalysis using basic RNN
